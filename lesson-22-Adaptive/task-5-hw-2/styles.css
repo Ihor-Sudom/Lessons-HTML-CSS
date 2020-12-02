@@ -99,7 +99,6 @@ img {
   .main {
     display: flex;
     flex-direction: column;
-    flex: 1 0 auto;
   }
   .navigation {
     display: flex;
@@ -112,12 +111,10 @@ img {
   }
   .section {
     width: 100%;
+    padding-top: 0;
   }
   .news {
     width: 100%;
-  }
-  .footer {
-    flex: 0 0 auto;
   }
 }
 
