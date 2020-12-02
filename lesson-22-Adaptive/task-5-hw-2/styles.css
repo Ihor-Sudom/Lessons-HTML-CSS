@@ -96,6 +96,9 @@ img {
 }
 
 @media screen and (max-width: 599px) {
+  .main-box {
+    height: 100vh;
+  }
   .main {
     display: flex;
     flex-direction: column;
