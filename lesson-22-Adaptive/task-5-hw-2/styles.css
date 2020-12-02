@@ -8,7 +8,7 @@ html {
   color: #555;
 }
 
-.main-box {
+body {
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -96,9 +96,6 @@ img {
 }
 
 @media screen and (max-width: 599px) {
-  .main-box {
-    height: 100vh;
-  }
   .main {
     display: flex;
     flex-direction: column;
