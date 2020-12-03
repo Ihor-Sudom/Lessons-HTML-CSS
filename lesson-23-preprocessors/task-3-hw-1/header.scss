@@ -7,10 +7,10 @@
 .menu {
   display: flex;
   line-height: 3em;
-  padding: 0;
   margin: 0;
   list-style-type: none;
   text-transform: uppercase;
+  color: #fff;
   cursor: pointer;
 
     &__item {
