@@ -1,0 +1,25 @@
+
+.triangle1 {
+  margin: 50px;
+  background-color: blue;
+  border: 2px solid black;
+}
+
+.triangle2 {
+  margin: 50px;
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+.triangle3 {
+  margin: 50px;
+  background-color: green;
+  border: 2px solid black;
+}
+
+.triangle4 {
+  margin: 50px;
+  background-color: pink;
+  border: 2px solid black;
+  height: 100px;
+}
